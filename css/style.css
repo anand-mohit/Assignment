@@ -1,0 +1,237 @@
+body,html{
+	max-width: 100%;
+	font-family: 'Roboto Slab', sans-serif;	
+}
+/*------Header css------*/
+
+#header {
+    width: 100%;
+    position: fixed;
+    top:0;
+}
+/*header logo css*/
+#header .container_12 .grid_4 img{
+	padding-left: 0px;
+	width: 80px;
+	height: 50px;
+	float: left;
+	padding-top: 10px
+}
+/*menu bar*/
+#header .container_12 .grid_8 nav{
+    padding-top: 20px;
+    width: 100%;
+    float:right;
+}
+/*menu bar list */
+#header .container_12 .grid_8 ul li{
+    display: inline;
+    overflow: hidden;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-right: 5px;
+}
+
+#header .container_12 .grid_8{
+    float: right;
+}
+/*----header css over---*/
+
+/*---------herounit----------*/
+.herounit{
+    position: relative;
+}
+/*herounit image settings*/
+.herounit img{
+            width: 100%;
+            height: 350px;
+}
+/*line over image*/
+#overimg{
+    position:absolute;
+    bottom:0; 
+    font-size:24px;    
+    background:rgba(251,251,251,0.5);
+    padding:10px 20px;
+}
+/*overimg link setting */
+.herounit  a{
+    text-decoration: none;
+}
+/*-----herounit css over------*/
+
+#wholecontent{
+    margin-top: 70px;
+}
+div h1{
+	padding-top: 15px;
+	color: white;
+	text-shadow: 2px 2px 5px black; 
+
+}
+ .container_12{
+	background-color:#f5f5f5;
+	width: 100%;
+}
+
+ul a {
+	text-decoration: none;
+	color: gray;
+}
+
+ul a:hover {
+text-decoration: underline;
+color: #aeadad;
+}
+
+.container_12 .grid_4{
+	width: 320px;
+
+}
+
+/*------Services.......*/
+
+#service .container_12{
+height: 400px;
+}
+
+#service .container_12 .grid_4{
+	padding-left: 75px;
+	padding-top: 20px
+}
+
+#service .container_12 .grid_4 h2{
+    text-align: center;
+}
+
+#service .container_12 .grid_4 p{
+    font-family: sans-serif;
+}
+
+.serviceimg{
+    width:200px;
+    height: 150px;
+    padding-left: 40px;
+    padding-top: 0px;
+}
+/*read more button*/
+.buton{
+	float:right;
+}
+
+
+/*------testimonials-----*/
+
+#partner .container_12{
+	height: 340px;
+}
+.testimonial{
+	
+	padding-left:50px;
+	float: center;
+}
+
+#partner .container_12 .grid_6 .testimonial {
+	margin-left: 70px;
+}
+
+#partner .container_12 .grid_6 img{
+	padding-left: 100px
+	
+}
+
+.dialogue{
+	border: 3px solid gray;
+    text-align: center;
+    padding: 5px 5px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+#part{
+	width: 470px;
+	height: 300px;
+	padding-top: 20px;
+}
+
+/* Contact us form */
+
+#contactus{
+	width: 120s0px;
+	height: 300px;
+	padding-top:130px;
+}
+
+#submit{
+	margin-top: 15px
+}
+
+#contact .container_12{
+	height: 440px;
+}
+
+#contact .container_12 .grid_4 img{
+	padding-left: 70px	
+}
+
+#contact .container_12 .grid_8{
+	padding-top: 15px;
+	float: right;
+}
+
+/*footer section*/
+
+#foot .container_12 {
+	background-color:#1a1a1a;
+	height: 250px;
+}
+/*icon*/
+#icon{
+	width:20px;
+	height: 20px;
+	float:left;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+/*copyright statement*/
+#foot .container_12 p{
+	color: white;
+	padding-top: 10px;
+	padding-left: 35px;
+}
+
+#foot .container_12 h6{
+	color: white;
+}
+
+#foot .container_12 .grid_3{
+	margin-left: 75px;
+	margin-top: 15px;
+}
+
+#foot .container_12 .grid_3 ul li{
+	list-style-type: none;
+	margin:0 15px 15px 0;
+
+}
+
+#foot .container_12 .grid_3 img {
+width: 35px;
+padding: 3px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
+#foot .container_12 .grid_3 a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+		
+        
+        
